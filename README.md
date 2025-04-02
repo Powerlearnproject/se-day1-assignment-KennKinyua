@@ -8,7 +8,7 @@ Explain what software engineering is and discuss its importance in the technolog
 software engineering is a branch of computer science used for developing, testing and maintaining software.
 Benefits
 Reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
-Efficiency - it helps to optimize developer workflow while maintaining high quality standards.
+Efficiency - it helps to optimize developer workflow while maintaining high quality standards
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 Mastering complexity
